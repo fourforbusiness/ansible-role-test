@@ -1,5 +1,6 @@
-Role Name
+Test Role
 =========
+[![Build Status](https://api.travis-ci.org/fourforbusiness/ansible-role-test.svg?branch=master)](https://api.travis-ci.org/fourforbusiness/ansible-role-test)
 
 A brief description of the role goes here.
 
