@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  remote_user: root
+  vars:
+    some_variable: "I changed the default text."
+  roles:
+    - ffb.test

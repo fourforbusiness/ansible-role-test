@@ -1,0 +1,5 @@
+---
+# tasks file for ffb.test
+- debug:
+    var: some_variable
+    verbosity: 0
